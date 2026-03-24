@@ -1,0 +1,14 @@
+.history/
+.pytest_cache/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.vscode/
