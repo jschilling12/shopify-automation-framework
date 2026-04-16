@@ -171,7 +171,7 @@ jobs:
 
 ---
 
-## Summary (Updated)
+## Summary
 
 * POM-based architecture for maintainability
 * Playwright + Pytest stack
